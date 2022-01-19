@@ -1,1 +1,2 @@
 The journey started in the terminal, line 1. 
+And then, gravity took over and we found ourselves on line 2.
